@@ -1,16 +1,23 @@
 # aureo-del-repot
-Aver si sube
-🚀🚀🚀
-#aureo
-cat <<EOF > main.cpp
-#include <iostream>
-int main() {
-    std::cout << "Sistema Áureo activo" << std::endl;
-    return 0;
-}
-EOF
 
-# subir
-git add main.cpp
-git commit -m "Subido main.cpp inicial"
-git push origin main
+📁 **Repositorio de código**
+
+## Descripción
+Proyecto en desarrollo.
+
+## Estado
+[![Audit Status](https://github.com/pitist/aureo-del-repot/actions/workflows/audit.yml/badge.svg)](https://github.com/pitist/aureo-del-repot/actions/workflows/audit.yml)
+
+## Contenido
+- Código fuente
+- Configuración básica
+
+## Uso
+```bash
+# Clonar
+git clone https://github.com/pitist/aureo-del-repot.git
+cd aureo-del-repot
+```
+
+---
+*Repositorio mantenido con el sistema android-toolchain.*
